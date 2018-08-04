@@ -3,7 +3,7 @@ Restaurant Reviews App (Stage 1)
 
 ## Description
 
-* Restaurant reviews app with accessibility features, serviceWorker an more.
+* Restaurant reviews app with accessibility features, serviceWorker and more.
 
 ### Prerequisites
 
@@ -19,7 +19,7 @@ Restaurant Reviews App (Stage 1)
 
 In order to run the application you have some options:
 
-1. Live link [here](https://tpliakas.github.io/restaurant-reviews-app-stage-1/)
+1. Live link [here](https://tpliakas.github.io/restaurant-reviews-app/)
 
 2. Run it localy
 * Download zip file or clone this project. 
