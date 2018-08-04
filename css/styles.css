@@ -163,6 +163,13 @@ nav h1 a {
   min-height: auto;
   min-width: 100%;
 }
+#restaurants-list .restaurant-img:hover {
+  -webkit-filter: brightness(70%);
+  filter: brightness(70%);
+  -webkit-transition: .4s;
+  -o-transition: .4s;
+  transition: .4s;
+}
 #restaurants-list li h1 {
   color: rgb(44, 44, 44);
   font-family: Arial,sans-serif;
